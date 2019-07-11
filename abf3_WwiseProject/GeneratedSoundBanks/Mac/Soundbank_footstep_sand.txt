@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3927018581	event_footstep_sand			\Default Work Unit\event_footstep_sand	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	887390575	footstep_sand	D:\Users\MJay\abf3\abf3_WwiseProject\.cache\Mac\SFX\footstep_sand_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\FoodSteps\footstep_sand\footstep_sand		141376
+

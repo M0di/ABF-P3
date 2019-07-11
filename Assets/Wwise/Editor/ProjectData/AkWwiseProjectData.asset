@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbbd1a8c38038d8438f683a494e6054f, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 0174339117d3694eb0294fb08fdd1449
+    GuidInternal: 
+    m_lastTime: -8586428055402175886
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 935ea21a88f39b49963cd14ebfd5c2e4
+    GuidInternal: 
+    m_lastTime: -8586428055401747266
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 8c90ba2132d8194da7f2dd05328a04af
+    GuidInternal: 
+    m_lastTime: -8586422814922646091
+    List:
+    - name: Soundbank_amb_bird
+      guid: f4bea66829d7644aa95f8c9defa487ed
+      id: 2114976917
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank_amb_bird
+        ObjectType: 7
+      Path: Default Work Unit\Soundbank_amb_bird
+    - name: Soundbank_amb_wind
+      guid: 5e67b9f0ce27dd439facf5ab298395ec
+      id: 266907206
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank_amb_wind
+        ObjectType: 7
+      Path: Default Work Unit\Soundbank_amb_wind
+    - name: Soundbank_footstep_concrete
+      guid: 1ec5f7ad2b48b84b85915ad4a0554bce
+      id: 129731877
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank_footstep_concrete
+        ObjectType: 7
+      Path: Default Work Unit\Soundbank_footstep_concrete
+    - name: Soundbank_footstep_grass
+      guid: 94b904a51f1acf48871adec7b7c9c643
+      id: 1951044690
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank_footstep_grass
+        ObjectType: 7
+      Path: Default Work Unit\Soundbank_footstep_grass
+    - name: Soundbank_footstep_sand
+      guid: c502c11533413a4aa1e6141a828b755e
+      id: 2965499482
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank_footstep_sand
+        ObjectType: 7
+      Path: Default Work Unit\Soundbank_footstep_sand
+    - name: Soundbank_footstep_wood
+      guid: 9051b33824a2094895c6a9decf0ac15e
+      id: 4287060699
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank_footstep_wood
+        ObjectType: 7
+      Path: Default Work Unit\Soundbank_footstep_wood
+    - name: Soundbank_plane
+      guid: c32bf3667996df428f543ee10ba6ce3c
+      id: 3218185487
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank_plane
+        ObjectType: 7
+      Path: Default Work Unit\Soundbank_plane
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 0fe7c1d65795064685dfef4742dab7fc
+    GuidInternal: 
+    m_lastTime: -8586422814922742949
+    List:
+    - name: event_amb_bird
+      guid: 0d309c998c369c4a8e5f47aed2ecae04
+      id: 55183472
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: event_amb_bird
+        ObjectType: 3
+      Path: Default Work Unit\event_amb_bird
+      maxAttenuation: 0
+      maxDuration: 292661730
+      minDuration: 292661730
+    - name: event_amb_wind
+      guid: 4968cdf5c13c4341a59ce8c2b0174049
+      id: 4276425591
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: event_amb_wind
+        ObjectType: 3
+      Path: Default Work Unit\event_amb_wind
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: event_footstep_concrete
+      guid: 2dea90d9eac0e24cb49616422db9923f
+      id: 2347030246
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: event_footstep_concrete
+        ObjectType: 3
+      Path: Default Work Unit\event_footstep_concrete
+      maxAttenuation: 0
+      maxDuration: 1000000
+      minDuration: 1000000
+    - name: event_footstep_grass
+      guid: 1a537859af021142ba9752973d95979e
+      id: 3458243939
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: event_footstep_grass
+        ObjectType: 3
+      Path: Default Work Unit\event_footstep_grass
+      maxAttenuation: 0
+      maxDuration: 1000000
+      minDuration: 1000000
+    - name: event_footstep_sand
+      guid: ff393135967b0c4c85f26e362b40e687
+      id: 3927018581
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: event_footstep_sand
+        ObjectType: 3
+      Path: Default Work Unit\event_footstep_sand
+      maxAttenuation: 0
+      maxDuration: 1000000
+      minDuration: 1000000
+    - name: event_footstep_wood
+      guid: fb999d87ebdc2f47b6961684829d147a
+      id: 2609400252
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: event_footstep_wood
+        ObjectType: 3
+      Path: Default Work Unit\event_footstep_wood
+      maxAttenuation: 0
+      maxDuration: 1000000
+      minDuration: 1000000
+    - name: event_plane
+      guid: 8f7095352336bb48872997174cd442e8
+      id: 4222381384
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: event_plane
+        ObjectType: 3
+      Path: Default Work Unit\event_plane
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: a49a5752a50db045b81f3aa0b328f180
+    GuidInternal: 
+    m_lastTime: -8586428055402245923
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: f3fbefeebb4db94582f930b1a7cf7e8e
+    GuidInternal: 
+    m_lastTime: -8586428055401487735
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 0319274a811c684fa75ba2f7ecd9cf48
+    GuidInternal: 
+    m_lastTime: -8586428055401767222
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: e0223aadcfc6514598dc507888a1fff0
+    GuidInternal: 
+    m_lastTime: -8586428055401418145
+    List: []
+  ExpandedItems:
+  - /abf3_WwiseProject
+  - /abf3_WwiseProject/Events
+  - /abf3_WwiseProject/Events/Default Work Unit
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

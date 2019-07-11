@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D6C1E70F-9557-4606-85DF-EF4742DAB7FC}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{D6C1E70F-9557-4606-85DF-EF4742DAB7FC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="event_amb_bird" ID="{999C300D-368C-4A9C-8E5F-47AED2ECAE04}">
+					<ChildrenList>
+						<Action Name="" ID="{BDF3DE03-A2E3-4126-9F57-B7BF0F165555}" ShortID="389947308">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_bird" ID="{B97D9C83-7E0B-4684-94A1-479A103C5F72}" WorkUnitID="{FC8A9F4C-5CCA-4A8B-9927-3C85D073EFF5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="event_amb_wind" ID="{F5CD6849-3CC1-4143-A59C-E8C2B0174049}">
+					<ChildrenList>
+						<Action Name="" ID="{EA5A366C-B64E-44C0-A07C-209A9ECF9E47}" ShortID="653514489">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Playlist_amb_wind" ID="{E12A6117-E793-4305-8E50-360AA344008A}" WorkUnitID="{FC8A9F4C-5CCA-4A8B-9927-3C85D073EFF5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="event_plane" ID="{3595708F-3623-48BB-8729-97174CD442E8}">
+					<ChildrenList>
+						<Action Name="" ID="{E58680C2-BA70-4205-AC23-25CA87A0D5D3}" ShortID="357961007">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Playlist_plane" ID="{8460C256-E918-4876-B710-AA51A5E0181C}" WorkUnitID="{FC8A9F4C-5CCA-4A8B-9927-3C85D073EFF5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="event_footstep_concrete" ID="{D990EA2D-C0EA-4CE2-B496-16422DB9923F}">
+					<ChildrenList>
+						<Action Name="" ID="{6904AD2E-8647-4E51-8EBD-957439D719B5}" ShortID="476322790">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep_concrete" ID="{95DA959B-5288-486F-99CC-25B436E27D8F}" WorkUnitID="{FC8A9F4C-5CCA-4A8B-9927-3C85D073EFF5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="event_footstep_grass" ID="{5978531A-02AF-4211-BA97-52973D95979E}">
+					<ChildrenList>
+						<Action Name="" ID="{90B232A5-9BC7-49D1-87FF-FA1D926E8C21}" ShortID="894348759">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep_grass" ID="{80895F2B-0CF7-4CDC-A18C-EE6CDC1CF8E7}" WorkUnitID="{FC8A9F4C-5CCA-4A8B-9927-3C85D073EFF5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="event_footstep_sand" ID="{353139FF-7B96-4C0C-85F2-6E362B40E687}">
+					<ChildrenList>
+						<Action Name="" ID="{66AEBEBD-D2FC-4355-A60C-71BFE13E785F}" ShortID="304755481">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep_sand" ID="{B33943AD-A7F9-4D0D-BC04-B68B8519971C}" WorkUnitID="{FC8A9F4C-5CCA-4A8B-9927-3C85D073EFF5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="event_footstep_wood" ID="{879D99FB-DCEB-472F-B696-1684829D147A}">
+					<ChildrenList>
+						<Action Name="" ID="{7EE2AE7F-7438-4DD4-AD7C-C4BBF8D3FD03}" ShortID="522816144">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep_wood" ID="{29AB0149-515E-4936-A043-1505097898E1}" WorkUnitID="{FC8A9F4C-5CCA-4A8B-9927-3C85D073EFF5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

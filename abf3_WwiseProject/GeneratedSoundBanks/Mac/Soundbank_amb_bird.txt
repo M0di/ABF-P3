@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	55183472	event_amb_bird			\Default Work Unit\event_amb_bird	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	385284738	amb_bird	D:\Users\MJay\abf3\abf3_WwiseProject\.cache\Mac\SFX\amb_bird_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Ambient\Playlist_amb_bird\amb_bird\amb_bird		56191112
+

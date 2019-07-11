@@ -1,0 +1,3 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	924584272	amb_wind	D:\Users\MJay\abf3\abf3_WwiseProject\.cache\Mac\SFX\amb_wind_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Ambient\Playlist_amb_wind\amb_wind\amb_wind		49513740
+

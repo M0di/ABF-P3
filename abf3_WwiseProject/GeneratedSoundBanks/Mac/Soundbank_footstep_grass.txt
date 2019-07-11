@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3458243939	event_footstep_grass			\Default Work Unit\event_footstep_grass	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	544471993	footstep_grass	D:\Users\MJay\abf3\abf3_WwiseProject\.cache\Mac\SFX\footstep_grass_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\FoodSteps\footstep_grass\footstep_grass		80384
+

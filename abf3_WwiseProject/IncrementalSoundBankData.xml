@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="861300542">
+	<Platform GUID="{ED84E061-4420-4AF7-A59A-DD213A8D9F45}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Init" Hash="2279659568" Timestamp="1558802002"/>
+				<File Name="Soundbank_amb_bird" Hash="3797018214" Timestamp="1559325502"/>
+				<File Name="Soundbank_amb_wind" Hash="3260339948" Timestamp="1559325501"/>
+				<File Name="Soundbank_footstep_concrete" Hash="2716899957" Timestamp="1558804492"/>
+				<File Name="Soundbank_footstep_grass" Hash="548289908" Timestamp="1558804492"/>
+				<File Name="Soundbank_footstep_sand" Hash="1736719862" Timestamp="1558804492"/>
+				<File Name="Soundbank_footstep_wood" Hash="435637042" Timestamp="1558804492"/>
+				<File Name="Soundbank_plane" Hash="3791979227" Timestamp="1558809878"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="539506092" Timestamp="1559325502"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+	<Platform GUID="{A67A8FC6-4973-4F87-B7E9-DF0252F28D09}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Init" Hash="1182415902" Timestamp="1558802002"/>
+				<File Name="Soundbank_amb_bird" Hash="3797018214" Timestamp="1559325503"/>
+				<File Name="Soundbank_amb_wind" Hash="3260339948" Timestamp="1559325502"/>
+				<File Name="Soundbank_footstep_concrete" Hash="2716899957" Timestamp="1558804492"/>
+				<File Name="Soundbank_footstep_grass" Hash="548289908" Timestamp="1558804492"/>
+				<File Name="Soundbank_footstep_sand" Hash="1736719862" Timestamp="1558804492"/>
+				<File Name="Soundbank_footstep_wood" Hash="435637042" Timestamp="1558804492"/>
+				<File Name="Soundbank_plane" Hash="3791979227" Timestamp="1558809880"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="3693399526" Timestamp="1559325503"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

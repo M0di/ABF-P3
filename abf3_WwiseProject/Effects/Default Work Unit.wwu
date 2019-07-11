@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C6227D9C-D863-4C23-863D-A6BB6D97044D}" SchemaVersion="94">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{C6227D9C-D863-4C23-863D-A6BB6D97044D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="Test" ID="{1A0C1D95-3D6F-4C43-9F64-21F7451E8E92}" PluginName="Wwise Gain" CompanyID="0" PluginID="139" PluginType="3"/>
+				<Effect Name="Test2" ID="{F6820572-1867-4EEC-96D2-56E74B71A0B4}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

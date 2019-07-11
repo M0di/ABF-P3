@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2347030246	event_footstep_concrete			\Default Work Unit\event_footstep_concrete	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	854760639	footstep_concrete	D:\Users\MJay\abf3\abf3_WwiseProject\.cache\Windows\SFX\footstep_concrete_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\FoodSteps\footstep_concrete\footstep_concrete		30924
+

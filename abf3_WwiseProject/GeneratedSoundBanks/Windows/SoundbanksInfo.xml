@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\Users\MJay\abf3\abf3_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Users\MJay\abf3\abf3_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Users\MJay\abf3\abf3_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Users\MJay\abf3\abf3_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="129731877" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_footstep_concrete</ObjectPath>
+			<ShortName>Soundbank_footstep_concrete</ShortName>
+			<Path>Soundbank_footstep_concrete.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2347030246" Name="event_footstep_concrete" ObjectPath="\Events\Default Work Unit\event_footstep_concrete" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="854760639" Language="SFX">
+					<ShortName>footstep_concrete.wav</ShortName>
+					<Path>SFX\footstep_concrete_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="266907206" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_amb_wind</ObjectPath>
+			<ShortName>Soundbank_amb_wind</ShortName>
+			<Path>Soundbank_amb_wind.bnk</Path>
+			<IncludedMemoryFiles>
+				<File Id="924584272" Language="SFX">
+					<ShortName>amb_wind.wav</ShortName>
+					<Path>SFX\amb_wind_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1951044690" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_footstep_grass</ObjectPath>
+			<ShortName>Soundbank_footstep_grass</ShortName>
+			<Path>Soundbank_footstep_grass.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3458243939" Name="event_footstep_grass" ObjectPath="\Events\Default Work Unit\event_footstep_grass" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="544471993" Language="SFX">
+					<ShortName>footstep_grass.wav</ShortName>
+					<Path>SFX\footstep_grass_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2114976917" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_amb_bird</ObjectPath>
+			<ShortName>Soundbank_amb_bird</ShortName>
+			<Path>Soundbank_amb_bird.bnk</Path>
+			<IncludedEvents>
+				<Event Id="55183472" Name="event_amb_bird" ObjectPath="\Events\Default Work Unit\event_amb_bird" DurationType="OneShot" DurationMin="292.661713" DurationMax="292.661713"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="385284738" Language="SFX">
+					<ShortName>amb_bird.wav</ShortName>
+					<Path>SFX\amb_bird_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2965499482" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_footstep_sand</ObjectPath>
+			<ShortName>Soundbank_footstep_sand</ShortName>
+			<Path>Soundbank_footstep_sand.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3927018581" Name="event_footstep_sand" ObjectPath="\Events\Default Work Unit\event_footstep_sand" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="887390575" Language="SFX">
+					<ShortName>footstep_sand.wav</ShortName>
+					<Path>SFX\footstep_sand_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3218185487" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_plane</ObjectPath>
+			<ShortName>Soundbank_plane</ShortName>
+			<Path>Soundbank_plane.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4222381384" Name="event_plane" ObjectPath="\Events\Default Work Unit\event_plane" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="414262124" Language="SFX">
+					<ShortName>plane.wav</ShortName>
+					<Path>SFX\plane_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4287060699" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_footstep_wood</ObjectPath>
+			<ShortName>Soundbank_footstep_wood</ShortName>
+			<Path>Soundbank_footstep_wood.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2609400252" Name="event_footstep_wood" ObjectPath="\Events\Default Work Unit\event_footstep_wood" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="966796381" Language="SFX">
+					<ShortName>footstep_wood.wav</ShortName>
+					<Path>SFX\footstep_wood_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

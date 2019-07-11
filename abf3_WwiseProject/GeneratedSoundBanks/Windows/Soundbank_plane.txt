@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4222381384	event_plane			\Default Work Unit\event_plane	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	414262124	plane	D:\Users\MJay\abf3\abf3_WwiseProject\.cache\Windows\SFX\plane_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Plane\Playlist_plane\plane\plane		922588
+
